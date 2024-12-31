@@ -1,3 +1,12 @@
+class Q983 {
+    public static void main(String[] args) {
+        Solution sol = new Solution();
+        int[] days = {1,4,6,7,8,20};
+        int[] costs = {2,7,15};
+        System.out.println(sol.mincostTickets(days, costs));
+    }
+}
+
 class Solution {
     public int mincostTickets(int[] days, int[] costs) {
         int[] dp = new int[days.length + 1];
@@ -19,4 +28,4 @@ class Solution {
 
         return dp[dp.length - 1];
     }
-}`
+}
