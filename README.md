@@ -8,4 +8,6 @@ Day 1: 1639. Number of Ways to Form a Target String Given a Dictionary [Dynamic 
 <br />
 Day 2: 983. Minimum Cost For Tickets [Dynamic Programming]
 <br />
-Day 3: 539. Minimum Time Difference []
+Day 3: 539. Minimum Time Difference [Sorting/Math]
+<br />
+Day 4: 2559. Count Vowel Strings in Ranges [Prefix Sum]
